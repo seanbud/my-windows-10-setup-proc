@@ -1,0 +1,76 @@
+Windows 10
+============
+First, Install Windows 10, 
+
+[Drivers]
+if you give it a chance it'll find most of the drivers you need for you. Then install any missing device drivers after the updates and a restart or two.
+
+[Windows Serial Key]
+search "activate" and select Activate. Click to change your serial key.
+
+[Time] (optional, only applicable when wrong)
+if the clock is wrong, 
+search "time" and select Change the date and time. Disable automatic options, select "(UTC-05:00) Estern Time (US & Canada)," and then reenable the automatic options.
+
+[Windows Updates]
+search "update" and select Windows Update settings > advanced options. disable everything.
+
+[Sharing]
+search "shared experiences" and turn off.
+
+[Privacy, Advertising, Background apps]
+search "[privacy]" and select Privacy Settings > turn off everything in every tab. Especially the advertising, and background apps.
+
+[Sync]
+search "sync" and select Sync your settings. Turn off all.
+
+[Notifications]
+search "notifications". turn off all. especially tips.
+
+[xbox screen recorder]
+search "capture" and select Control how you capture your game through screenshots and game clips. Disable recording in the background.
+
+[Multitasking]
+search "multi" and select Multitasking. Turn off "When i snap a window, show what i can snap next to it", and "Show suggestions in timeline".
+turn off activity history for the Task View (win + tab)??
+
+[Start Menu]
+search "start" and select Start settings. Turn off everything (optionally keep on app list and recently added)
+go through and remove all tiles from start menu
+
+[Task Bar]
+Right click the task bar: set Cortana > hidden. Uncheck Show Task View button. Uncheck show People on the taskbar.
+
+[Software]
+search "add or" and select Add or Remove Programms > uninstall everything unnessisary.
+Then, on the same page, click Manage optional features > uninstall microsoft quick assist, and windows media player.
+
+[Cortana]
+search "cortana" and select Cortana & Search settings. Go through all tabs and disable everything.
+
+[Additional Cortana Settings](optional)
+********** tips ?
+DO I NEED TO SIGN IN TO DO THIS???? unbelievable...
+**********
+Press windows button and start typing - but don't close the menu! click the notebook on the left side. Sign in and disable all.
+
+
+[Disable Lock Screen] (optional)
+search "local group" and select Edit group policy. Navigate through - Computer Configuration \ Administrative Templates \ Control Panel \ Personalization. Open the "Do not display the lock screen" entry, and enable the option.
+
+[Change default image viewer] (optional)
+search on google "windows 10 reenable windows photo viewer". You will need to do a dirty registry hack to reenable the old photoviewer. Then go into default apps and select it.
+Try this article ? https://www.intowindows.com/how-to-enable-windows-photo-viewer-in-windows-10/
+
+[Disable faststartup] (optional, used for duelbooting with Linux)
+search "power" and select Power & Sleep. On the left tab, select "Choose what the power button will do". Click "on" the "Change settings that are currently unavailable". At the bottom, uncheck fast startup.
+
+[Disable memory intensive stuff visuals] (optional, useful for older machines)
+search "syatem" and select System (control panel) > click the Advanced System Settings tab on the left. Click the top "Settings", 
+Disable everything, except leave the following ones enabled:
+	"Animate windows when minimizing and maximizing"
+	"Animations in taskbar"
+	"Enable Peak"
+	"Show shadows under windows"
+	"Smooth edges of screen fonts"
+	"smooth-scroll list boxes"
