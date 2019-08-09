@@ -74,3 +74,5 @@ Disable everything, except leave the following ones enabled:
 	"Show shadows under windows"
 	"Smooth edges of screen fonts"
 	"smooth-scroll list boxes"
+
+
