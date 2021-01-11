@@ -48,6 +48,15 @@ Then, on the same page, click Manage optional features > uninstall microsoft qui
 [Cortana]
 search "cortana" and select Cortana & Search settings. Go through all tabs and disable everything.
 
+[icon only for searchbar]
+right click on the start bar > search > show search icon 
+
+[Change default install directory to D:\] (optional)
+search "storage" and select Storage Settings. At the bottom of the page, 
+click the hyperlink "Change where new content is saved".
+Set all of the locations to D:\.
+
+
 [Additional Cortana Settings](optional)
 ********** tips ?
 DO I NEED TO SIGN IN TO DO THIS???? unbelievable...
