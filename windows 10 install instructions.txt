@@ -27,8 +27,12 @@ search "sync" and select Sync your settings. Turn off all.
 [Notifications]
 search "notifications". turn off all. especially tips.
 
-[xbox screen recorder]
-search "capture" and select Control how you capture your game through screenshots and game clips. Disable recording in the background.
+[Capture - background recording]
+search "capture". Disable recording in the background.
+
+    [xbox game bar settings] - disable all.
+    [GameMode] - disable it.
+
 
 [Multitasking]
 search "multi" and select Multitasking. Turn off "When i snap a window, show what i can snap next to it", and "Show suggestions in timeline".
