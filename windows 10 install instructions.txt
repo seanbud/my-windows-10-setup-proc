@@ -76,7 +76,7 @@ search on google "windows 10 reenable windows photo viewer". You will need to do
 Try this article ? https://www.intowindows.com/how-to-enable-windows-photo-viewer-in-windows-10/
 
 [Disable faststartup] (optional, used for duelbooting with Linux)
-search "power" and select Power & Sleep. On the left tab, select "Choose what the power button will do". Click "on" the "Change settings that are currently unavailable". At the bottom, uncheck fast startup.
+search "power" and select Power & Sleep. On the right side of the window, select additional power settings. In the new popup window, on the left tab, select "Choose what the power button will do". Click "on" the "Change settings that are currently unavailable". At the bottom, uncheck fast startup.
 
 [Disable memory intensive stuff visuals] (optional, useful for older machines)
 search "syatem" and select System (control panel) > click the Advanced System Settings tab on the left. Click the top "Settings", 
