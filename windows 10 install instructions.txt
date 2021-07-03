@@ -61,6 +61,9 @@ click the hyperlink "Change where new content is saved".
 Set all of the locations to D:\.
 
 
+[turn off web results in search]
+https://www.youtube.com/watch?v=70KNE9btMKE
+
 [Additional Cortana Settings](optional)
 ********** tips ?
 DO I NEED TO SIGN IN TO DO THIS???? unbelievable...
